@@ -1,0 +1,28 @@
+{
+ "format": "basair-contenu",
+ "formatVersion": 1,
+ "appName": "معارج النور",
+ "contentVersion": 2,
+ "updatedAt": "2026-11-03T12:00:00+00:00",
+ "preview": false,
+ "names": [
+  {
+   "id": "n-001",
+   "order": 1,
+   "name": "اللَّهُ",
+   "brief": "محتوى تجريبي وصل عن بُعد",
+   "extra": false,
+   "published": true,
+   "status": {
+    "quran": false,
+    "sunnah": false,
+    "tirmidhi": true
+   },
+   "r": {}
+  }
+ ],
+ "adhkar": {
+  "sabah": [],
+  "masaa": []
+ }
+}
